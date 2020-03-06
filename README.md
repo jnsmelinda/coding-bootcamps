@@ -1,5 +1,5 @@
 # Coding Bootcamps
-Coding bootcamps in Seattle area
+Coding bootcamps in the Seattle area
 
 ## University of Washington Professional Certificate
 - [Data & Analytics](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CDataManagement_Analysis&term=it)  
@@ -32,7 +32,7 @@ Coding bootcamps in Seattle area
 - JavaScript: The programming language of the web  
 - jQuery: A JavaScript library for making interactive web pages  
 - Bootstrap: A framework for easily creating good-looking websites  
-- [intro to programming classes](https://www.learnhowtoprogram.com/intro-to-programming-evening)
+- [intro to programming classes](https://www.learnhowtoprogram.com/intro-to-programming-evening)  
 
 **Part-Time JS:**
 - Tuesdays and Thursdays 6-9pm and Sundays 9am-3pm $5,400  
