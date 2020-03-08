@@ -82,6 +82,7 @@ Coding bootcamps in the Seattle area
 
 ## General Assembly
 [General Assemby](https://generalassemb.ly/locations/seattle)
+<br>
 
 ## NUCamp
 - [Bellevue](https://www.nucamp.co/community/wa/bellevue)
