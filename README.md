@@ -1,58 +1,6 @@
 # Coding Bootcamps
-Coding bootcamps in the Seattle area
-
-## Coding Dojo
-- [Bellevue location](https://www.codingdojo.com/seattle)
-- $15000
-- inerview process  
-- Python, MySql, Flask, Ajax, Django
-- MEAN, JavaScript, MongoDb, Angular, Node.Js, Express.JS, 
-- C#, .Net Core, NancyFx, Asp.Net Core, Entity Framework Core
-
-## University of Washington Professional Certificate
-- [Data & Analytics](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CDataManagement_Analysis&term=it)  
-- [Programming and Application Developement](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CApplicationDevelopment&term=it)  
-- [Security & Information Management](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CITSecurity_RiskManagement&term=it)  
-- [User Experience & Design](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CUserExperience_Design&term=it)  
-
-## University of Washington Coding Boot-Camp
-- [Boot Camp](https://bootcamp.uw.edu/)  
-
-**Part-time Boot-camp:**
-- 24 weeks  
-- Seattle  
-- [link](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
-
-**Full-time Boot-camp:**
-- 24 weeks  
-- Seattle, Bellevue  
-- [link](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
-
-## Epicodus   
-- [Epicodus Seattle](https://www.epicodus.com/seattle)  
-
-**Part-time intro to programmming:**
-- Tuesdays and Thursdays from 6-9pm for 10 weeks $100  
-- HTML and CSS: The presentation and styling languages of the web  
-- Git: The tool programmers use to track their code  
-- Command line: The tool programmers use to interact with their computers  
-- Markdown: A simple language for documents  
-- JavaScript: The programming language of the web  
-- jQuery: A JavaScript library for making interactive web pages  
-- Bootstrap: A framework for easily creating good-looking websites  
-- [intro to programming classes](https://www.learnhowtoprogram.com/intro-to-programming-evening)  
-
-**Part-Time JS:**
-- Tuesdays and Thursdays 6-9pm and Sundays 9am-3pm $5,400  
-- JavaScript  
-- React  
-
-**Full-time full stack + internship:**
-- Intro
-- JavaScript
-- C#/.Net
-- React
-- Internship
+Coding bootcamps in the Seattle area  
+<br>
 
 ## Code Fellows
 - [Code fellows](https://www.codefellows.org/)  
@@ -85,6 +33,73 @@ Coding bootcamps in the Seattle area
 - [Code 501: Intro to Data Structures & Algorithms](https://www.codefellows.org/courses/code-501/data-structures-and-algorithms/)  
 - [Code 501: Programming with Java](https://www.codefellows.org/courses/code-501/programming-with-java/)  
 - [Code 501: Master Essentials of the Bash Command Line](https://www.codefellows.org/courses/code-501/master-essentials-of-the-bash-command-line/)  
+<br>
+
+## Coding Dojo
+- [Bellevue location](https://www.codingdojo.com/seattle)
+- $15000
+- admission process  
+- Python, MySql, Flask, Ajax, Django
+- MEAN, JavaScript, MongoDb, Angular, Node.Js, Express.JS, 
+- C#, .Net Core, NancyFx, Asp.Net Core, Entity Framework Core  
+<br>
+
+## Epicodus   
+- [Epicodus Seattle](https://www.epicodus.com/seattle)  
+
+**Part-time intro to programmming:**
+- Tuesdays and Thursdays from 6-9pm for 10 weeks $100  
+- HTML and CSS: The presentation and styling languages of the web  
+- Git: The tool programmers use to track their code  
+- Command line: The tool programmers use to interact with their computers  
+- Markdown: A simple language for documents  
+- JavaScript: The programming language of the web  
+- jQuery: A JavaScript library for making interactive web pages  
+- Bootstrap: A framework for easily creating good-looking websites  
+- [intro to programming classes](https://www.learnhowtoprogram.com/intro-to-programming-evening)  
+
+**Part-Time JS:**
+- Tuesdays and Thursdays 6-9pm and Sundays 9am-3pm $5,400  
+- JavaScript  
+- React  
+
+**Full-time full stack + internship:**
+- Intro
+- JavaScript
+- C#/.Net
+- React
+- Internship
+<br>
+
+## Galvanize/Hack Reactor
+- 12 weeks, onsite, admission process
+- upfront: $17980, schollarship, financing, income share aggreement
+- Fundamentals of Computer Science 1 week: Basic and advanced data structures, Thinking like an engineer,Using JavaScript instantiation patterns
+- Full Stack JavaScript 5 weeks: Inheritance Patterns, Algorithms, and Browser Animation, Frameworks and the MVC Pattern, Server Side Technologies/Node and Databases, Advanced Web Development: JavaScript, API frameworks, CSS frameworks, JS frameworks, Deployment and Authentication
+- Application Design/Development & Job Search: MVP, Frontend Capstone, System Design Capstone, Software Engineering Best Practices, Career Services Preparation  
+
+<br>
+## University of Washington Professional Certificate
+- [Data & Analytics](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CDataManagement_Analysis&term=it)  
+- [Programming and Application Developement](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CApplicationDevelopment&term=it)  
+- [Security & Information Management](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CITSecurity_RiskManagement&term=it)  
+- [User Experience & Design](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CUserExperience_Design&term=it)  
+<br>
+
+## University of Washington Coding Boot-Camp
+- [Boot Camp](https://bootcamp.uw.edu/)  
+
+**Part-time Boot-camp:**
+- 24 weeks  
+- Seattle  
+- [link](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
+
+**Full-time Boot-camp:**
+- 24 weeks  
+- Seattle, Bellevue  
+- [link](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
+
+  
 
 
 
