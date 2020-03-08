@@ -72,13 +72,14 @@ Coding bootcamps in the Seattle area
 <br>
 
 ## Galvanize/Hack Reactor
+- [Galvanize/Hack Reactor](https://www.galvanize.com/web-development)
 - 12 weeks, onsite, admission process
 - upfront: $17980, schollarship, financing, income share aggreement
 - Fundamentals of Computer Science 1 week: Basic and advanced data structures, Thinking like an engineer,Using JavaScript instantiation patterns
 - Full Stack JavaScript 5 weeks: Inheritance Patterns, Algorithms, and Browser Animation, Frameworks and the MVC Pattern, Server Side Technologies/Node and Databases, Advanced Web Development: JavaScript, API frameworks, CSS frameworks, JS frameworks, Deployment and Authentication
 - Application Design/Development & Job Search: MVP, Frontend Capstone, System Design Capstone, Software Engineering Best Practices, Career Services Preparation  
-
 <br>
+
 ## University of Washington Professional Certificate
 - [Data & Analytics](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CDataManagement_Analysis&term=it)  
 - [Programming and Application Developement](https://www.pce.uw.edu/program-finder?type=Certificate&aos=Computing_IT%2CApplicationDevelopment&term=it)  
@@ -92,12 +93,12 @@ Coding bootcamps in the Seattle area
 **Part-time Boot-camp:**
 - 24 weeks  
 - Seattle  
-- [link](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
+- [overview](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
 
 **Full-time Boot-camp:**
 - 24 weeks  
 - Seattle, Bellevue  
-- [link](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
+- [overview](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
 
   
 
