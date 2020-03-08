@@ -71,6 +71,14 @@ Coding bootcamps in the Seattle area
 - Internship
 <br>
 
+## Flatiron School
+- [Flatiron School](https://flatironschool.com/campuses/seattle?utm_source=google&utm_medium=organic&utm_campaign=gmb)
+- online/in person
+- Software Engineering
+- UX/UI Design
+- Data Science
+<br>
+
 ## Galvanize/Hack Reactor
 - [Galvanize/Hack Reactor](https://www.galvanize.com/web-development)
 - 12 weeks, onsite, admission process
