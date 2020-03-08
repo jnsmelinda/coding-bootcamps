@@ -1,5 +1,4 @@
-# Coding Bootcamps
-Coding bootcamps in the Seattle area  
+# Coding bootcamps in the Seattle area  
 <br>
 
 ## Code Fellows
