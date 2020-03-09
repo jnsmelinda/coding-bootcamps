@@ -63,6 +63,8 @@
 - React  
 
 **Full-time full stack + internship:**
+- 27-week program includes
+- Standard Tuition: $8,900, Up-front Discount: $7,800
 - Intro
 - JavaScript
 - C#/.Net
