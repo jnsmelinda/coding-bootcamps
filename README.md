@@ -117,7 +117,7 @@
 - [overview](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2018/04/UW_Coding_Curriculum_Overview.pdf)  
 
 **Full-time Boot-camp:**
-- 24 weeks  
+- 12 weeks  
 - Seattle, Bellevue  
 - [overview](https://bootcamp.uw.edu/wp-content/uploads/sites/61/2019/01/uwashington_curriculum_full_time_coding.pdf)  
 
